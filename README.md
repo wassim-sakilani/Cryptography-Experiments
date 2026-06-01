@@ -38,20 +38,6 @@ If an experiment folder does not yet have its own `README.md`, please add one wh
 
 For details, see the `README.md` inside each experiment folder.
 
-### Template for new experiments
-
-Copy/paste this template when adding new experiments:
-
-```markdown
-#### <Experiment Name>
-
-- **Goal:** <What are you trying to demonstrate?>
-- **How to run:** `python <script>.py`
-- **Concepts:** <e.g., modular arithmetic, RSA, hashes>
-- **Notes:** <any limitations or references>
-```
-
----
 
 ## Requirements
 
@@ -70,4 +56,4 @@ From the repository root, run the commands shown in the table above (they differ
 
 ## License
 
-MIT License (see `LICENSE`).
+This project is released under the MIT License.
